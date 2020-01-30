@@ -7,4 +7,5 @@
 - O Curso tem como objetivo:
 
 [x]Ensinar a utilizar a documentação do framework
+
 [x]Ensinar a criar uma página responsiva com Bootstrap
